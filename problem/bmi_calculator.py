@@ -3,7 +3,7 @@
 print("""░█▀▄░█▄█░▀█▀░░░█▀▀░█▀█░█░░░█▀▀░█░█░█░░░█▀█░▀█▀░█▀█░█▀▄
 ░█▀▄░█░█░░█░░░░█░░░█▀█░█░░░█░░░█░█░█░░░█▀█░░█░░█░█░█▀▄
 ░▀▀░░▀░▀░▀▀▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀""")
-print("Body Mass Index (BMI) is a simple calculation using a person's height and weight.")
+print("Body mass index (BMI) is a simple index of weight-for-height that is commonly used to classify overweight and obesity")
 height = float(input("Enter height in meters: "))
 weight = float(input("Enter weight in kg: "))
 
