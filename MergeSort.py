@@ -47,7 +47,7 @@ def mergeSort(arr, l, r):
 		mergeSort(arr, m+1, r)
 		merge(arr, l, m, r)
 
-
+#This array is for example.
 arr = [12, 11, 13, 5, 6, 7]
 n = len(arr)
 print("Given array is")
