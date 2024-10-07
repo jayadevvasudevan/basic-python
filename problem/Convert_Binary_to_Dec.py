@@ -1,13 +1,27 @@
-#binary to decimal
+def binary_to_decimal(binary_number):
+    """Converts a binary number to its decimal equivalent.
 
-bi = int(input("Enter binary number: "))
+    Arguments:
+        binary_number -- a binary number
 
-ans = 0
-i = 0
-while (bi>0):
-    temp = bi%10
-    ans = ans + temp*(1<<i)
-    i += 1
-    bi = bi//10
+    Returns:
+        decimal_number -- a decimal number
+    """
 
-print("Decimal number: ", ans)
+    decimal_number = 0
+    power = 0
+
+    while binary_number > 0:
+        last_digit = binary_number % 10
+        decimal_number += last_digit * (2 ** power)
+        power += 1
+        binary_number //= 10
+
+    return decimal_number
+
+
+binary_input = int(input("Enter a binary number: "))
+
+decimal_output = binary_to_decimal(binary_input)
+
+print("Decimal number: ", decimal_output)
