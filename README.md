@@ -69,7 +69,24 @@ To participate:
 3. Enjoy the process and the rewards!
 
 
-## 🔧 Installation & Setup
+## � Repository Structure
+
+This repository is now organized into logical folders for easier navigation:
+
+- **`algorithms/`** - Searching, sorting, and LeetCode-style problems (17 files)
+- **`data_structures/`** - Stack, queue, linked list, graph implementations (4 files)
+- **`basic_programs/`** - Fundamental Python programs for beginners (23 files)
+- **`advanced_concepts/`** - OOP, decorators, regex, JSON, file operations (5 files)
+- **`games/`** - Interactive games and fun projects (3 files + 2 game folders)
+- **`utilities/`** - Useful tools and utilities (6 files)
+- **`web_scraping/`** - Web scraping projects (1 file + 2 folders)
+- **`Competitive_program/`** - Competitive programming solutions
+- **`file handling/`** - File I/O operations and examples
+- **`problem/`** - Additional coding challenges
+
+📖 See [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md) for detailed file listings and descriptions.
+
+## �🔧 Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -77,11 +94,18 @@ To participate:
    ```
 2. Navigate into the project directory:
    ```bash
-   cd BASIC-PYTHON
+   cd basic-python
    ```
-3. Run the Python scripts:
+3. Run any Python script:
    ```bash
-   python3 <filename>.py
+   # Example: Run a basic program
+   python basic_programs/Factorial.py
+   
+   # Example: Run an algorithm
+   python algorithms/binary_search.py
+   
+   # Example: Run advanced concepts
+   python advanced_concepts/oop_concepts.py
    ```
 
 ### 🧑‍💻 Prerequisites
