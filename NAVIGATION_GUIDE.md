@@ -11,10 +11,19 @@
 
 #### **Data Structures**
 → Go to `data_structures/`
-- `stack_queue.py` - Stack and Queue operations
-- `linked_list.py` - Linked list implementation
-- `hash_table.py` - Hash table operations
-- `graph_traversal.py` - BFS/DFS algorithms
+
+> ⚠️ **Note:** This folder is currently empty. The placeholder files have been removed. 
+> 
+> **Great opportunity to contribute!** You can implement:
+> - Stack and Queue operations
+> - Linked List (singly, doubly, circular)
+> - Hash Table/Hash Map
+> - Graph traversal (BFS, DFS)
+> - Binary Trees, BST, AVL Trees
+> - Heaps (Min Heap, Max Heap)
+> - Trie, Segment Tree, etc.
+>
+> In the meantime, check out `advanced_concepts/` for file system and JSON data structures!
 
 #### **Algorithms**
 → Go to `algorithms/`
@@ -83,6 +92,7 @@
 4. **Weeks 5-6**: Build projects
    - Competitive programming challenges
    - Web scraping projects
+   - **Bonus:** Implement data structures in `data_structures/`
 
 ### 🎓 Advanced Path (6-8 weeks)
 1. Complete intermediate path
@@ -120,10 +130,11 @@
 - Linear Search → Check `basic_programs/` examples
 
 **Data Structures**
-- Stack/Queue → `data_structures/stack_queue.py`
-- Linked List → `data_structures/linked_list.py`
-- Hash Table → `data_structures/hash_table.py`
-- Graph → `data_structures/graph_traversal.py`
+- Stack/Queue → _Coming soon! Contribute implementations_
+- Linked List → _Coming soon! Contribute implementations_
+- Hash Table → _Coming soon! Contribute implementations_
+- Graph → _Coming soon! Contribute implementations_
+- **Note:** Check `algorithms/` for algorithm implementations that use these concepts
 
 **LeetCode Style Problems**
 - Two Sum → `algorithms/2sum.py`

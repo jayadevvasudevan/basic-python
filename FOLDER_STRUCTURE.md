@@ -36,16 +36,14 @@ This repository is organized into logical folders for easy navigation and learni
 
 ### 🏗️ `data_structures/`
 **Custom data structure implementations**
-- Stack and Queue operations
-- Linked List implementation
-- Hash Table/Dictionary operations
-- Graph traversal algorithms
 
-**Files:**
-- `stack_queue.py` - Stack and queue implementations
-- `linked_list.py` - Linked list data structure
-- `hash_table.py` - Hash table operations
-- `graph_traversal.py` - BFS/DFS graph algorithms
+> ⚠️ **Note:** This folder was created for data structure implementations but currently contains no files. The original files were empty placeholders and have been removed. Feel free to contribute implementations of:
+> - Stack and Queue operations
+> - Linked List implementation
+> - Hash Table/Dictionary operations
+> - Graph traversal algorithms (BFS/DFS)
+> - Tree structures (Binary Trees, BST, AVL, etc.)
+> - Heap implementations
 
 ---
 

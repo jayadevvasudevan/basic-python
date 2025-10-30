@@ -69,12 +69,12 @@ To participate:
 3. Enjoy the process and the rewards!
 
 
-## � Repository Structure
+## 📁 Repository Structure
 
 This repository is now organized into logical folders for easier navigation:
 
 - **`algorithms/`** - Searching, sorting, and LeetCode-style problems (17 files)
-- **`data_structures/`** - Stack, queue, linked list, graph implementations (4 files)
+- **`data_structures/`** - Data structure implementations ⚠️ _Currently empty - contributions welcome!_
 - **`basic_programs/`** - Fundamental Python programs for beginners (23 files)
 - **`advanced_concepts/`** - OOP, decorators, regex, JSON, file operations (5 files)
 - **`games/`** - Interactive games and fun projects (3 files + 2 game folders)
